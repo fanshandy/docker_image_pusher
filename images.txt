@@ -5,5 +5,5 @@ xhofe/alist:latest
 #支持指定架构
 linuxserver/qbittorrent
 mtphotos/mt-photos
-emby/embyserver
-nastool/nas-tools
+hsuyelin/nas-tools:3.3.10
+amilys/embyserver
