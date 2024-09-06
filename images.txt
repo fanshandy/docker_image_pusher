@@ -6,3 +6,4 @@ xhofe/alist:latest
 linuxserver/qbittorrent
 mtphotos/mt-photos
 emby/embyserver
+nastool/nas-tools
