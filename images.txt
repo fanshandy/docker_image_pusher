@@ -1,2 +1,1 @@
-cnk3x/xunlei
-v2raya/v2raya
+shadowsocks/shadowsocks-libev
