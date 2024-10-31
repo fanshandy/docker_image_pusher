@@ -1,1 +1,2 @@
 ChineseSubFinder/ChineseSubFinder
+superng6/singbox
