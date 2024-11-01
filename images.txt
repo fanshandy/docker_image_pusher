@@ -1,2 +1,2 @@
-chinesesubfinder/chinesesubfinder
 superng6/singbox
+ChineseSubFinder/ChineseSubFinder
